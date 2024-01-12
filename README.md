@@ -1,3 +1,10 @@
+Adapted version of MiDaS to use the webcam of a laptop as input.<br />
+<br />
+Run Depth_Prediction_From_Camera_Feed.py to output a live depth man using the webcam as the input source.<br />
+<br />
+Please see below the links to the github, authors and paper regarding the Monocular Depth Estimation model DistDepth:<br />
+<br />
+
 ## Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer
 
 This repository contains code to compute depth from a single image. It accompanies our [paper](https://arxiv.org/abs/1907.01341v3):
